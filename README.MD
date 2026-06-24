@@ -36,3 +36,23 @@
 
 * Improve customer retention through loyalty programs
 * Investigate delayed deliveries and high-risk orders to enhance customer experience
+
+
+## Strategic Recommendations
+
+1. Increase Customer Retention
+   * Improve repeat purchase rate from 3.12% through loyalty programs and personalized campaigns.
+2. Expand High-Performing Categories
+   * Increase inventory and promotions for Health & Beauty, Watches & Gifts, and Bed Bath & Table.
+3. Improve Delivery Performance
+   * Focus on delayed deliveries and high-risk orders to protect customer satisfaction.
+4. Prioritize Key Markets
+   * Allocate marketing and logistics investments toward São Paulo and other high-demand regions.
+5. Strengthen Operational Monitoring
+   * Track delivery delays, review scores, and seller performance using dashboard KPIs.
+
+---
+
+## Final Conclusion
+
+The business demonstrates strong operational performance with 97.02% delivery success, 93.23% on-time delivery, and a 4.09 customer rating. However, customer retention remains a major opportunity, with only 3.12% repeat customers. Future growth can be driven by improving customer loyalty, optimizing delivery performance, and investing in high-performing product categories and regions.
